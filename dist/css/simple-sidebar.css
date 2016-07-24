@@ -44,7 +44,8 @@
 #page-content-wrapper {
     width: 100%;
     position: absolute;
-    padding: 15px;
+    /* Bootstrap Simple Sidebar: css fix to remove padding*/
+    /* padding: 15px; */
 }
 
 #wrapper.toggled #page-content-wrapper {
@@ -118,7 +119,8 @@
     }
 
     #page-content-wrapper {
-        padding: 20px;
+        /* Bootstrap Simple Sidebar: css fix to remove padding*/
+        /* padding: 20px; */
         position: relative;
     }
 
