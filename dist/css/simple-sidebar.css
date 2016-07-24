@@ -16,6 +16,8 @@
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
+    /* Bootstrap Simple Sidebar: fix header above side bar*/
+    padding-top: 50px;
 }
 
 #wrapper.toggled {
